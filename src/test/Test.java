@@ -10,7 +10,7 @@ public class Test<T> {
 	public Test(int size)
 	{
 		array = new ArrayList<T>();
-		array.add((T) "weishi");
+		array.add((T) "wei¶©µ¥¶©µ¥shi");
 		array.add((T)(Integer)5);
 //		array = (T[])new Object[size];
 //		array[0]=(T)"sss";
